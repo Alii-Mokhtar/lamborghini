@@ -1,0 +1,165 @@
+/* colors////////////////// */
+
+.my-black {
+    background-color: black;
+}
+
+.my-white {
+    color: white;
+}
+
+.my-transparent {
+    background-color: transparent;
+}
+
+
+/* colors////////////////// */
+
+
+
+
+
+/* positions//////////////// */
+
+.z-index {
+    z-index: 100;
+}
+
+.opacity {
+    opacity: 100%;
+}
+
+.top-200 {
+    top: 200px;
+}
+
+.top-180 {
+    top: 180px;
+}
+
+.left-100 {
+    left: 100px;
+}
+
+.sticky-75{
+    position: sticky;
+    top: 75px;
+}
+
+.z-index-high {
+    z-index: 10000;
+}
+
+
+/* positions//////////////// */
+
+
+
+.width-100 {
+    width: 100%;
+}
+
+.width-400 {
+    width: 400px;
+}
+
+.height-500 {
+    height: 500px;
+}
+
+.max-500 {
+    max-width: 500px;
+}
+
+.max-900 {
+    max-width: 900px;
+}
+
+.min-190 {
+    min-width: 190px;
+}
+
+.radius-10 {
+    border-radius: 10px;
+}
+
+
+.font-1-5 {
+    font-size: 2rem;
+}
+
+.font-5 {
+    font-size: 5rem;
+}
+
+.font-7 {
+    font-size: 7rem;
+}
+
+.font-3 {
+    font-size: 3rem;
+}
+
+.font-08 {
+    font-size: 0.8rem;
+}
+
+.weight-6 {
+    font-weight: 600;
+}
+
+
+
+
+
+
+/* clipPath/////// */
+
+.clip-left {
+    clip-path: polygon(0% 0, 100% 0%, 65% 100%, 0% 100%);
+    ;
+}
+
+.clip-right {
+    clip-path: polygon(40% 0, 100% 0, 100% 100%, 0% 100%);
+    ;
+}
+
+.clip-ml {
+    clip-path: polygon(36% 0, 100% 0%, 65% 100%, 0% 100%);
+    ;
+}
+
+.clip-mr {
+    clip-path: polygon(36% 0, 97% 0%, 65% 100%, 0% 100%);
+    ;
+}
+
+/* clipPath/////// */
+
+
+
+
+
+
+/* transforms///////////// */
+.transform-100 {
+    transform: translateX(-100px);
+}
+
+.transform-400 {
+    transform: translateX(-400px);
+}
+
+/* transforms///////////// */
+
+
+.backdrop-25 {
+    backdrop-filter: blur(25px);
+    ;
+}
+
+
+.overflow-x-hidden {
+    overflow-x: hidden;
+}
